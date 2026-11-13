@@ -1,0 +1,6 @@
+{
+  "name": "SENA - Diagnóstico Cuantitativo Asistencia Administrativa",
+  "description": "Sistema de evaluación diagnóstica para Asistencia Administrativa V3 - SENA. Competencia Razonamiento Cuantitativo RAP 01, con roles para el instructor Fabio Enrique Moreno y aprendices, plan de acción Design Thinking y Guía 01.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
